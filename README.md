@@ -99,3 +99,8 @@ echo $mensagem_formatada >> $arquivo_saida
 - Salve o arquivo de cronjob.
 - Execute o comando `crontab -l` para verificar se o cronjob foi configurado corretamente.
 
+### Versionamento Git/GitHub
+- git clone https://github.com/nome-de-usuario/nome-do-repositorio.git
+- git add .
+- git commit -m "Adiciona arquivos iniciais"
+- git push origin master
