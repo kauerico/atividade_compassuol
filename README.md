@@ -41,7 +41,7 @@ Repositório para a primeira atividade de Linux e AWS , do programa de bolsas da
     IP_OU_DNS_DO_NFS:/ /mnt/nfs nfs defaults 0 0
     ```
 - Salvar o arquivo `/etc/fstab`.
-- Criar um novo diretório para o usuário alexlopes usando o comando `sudo mkdir /srv/nfs/kaue`.
+- Criar um novo diretório para o usuário kaue usando o comando `sudo mkdir /srv/nfs/kaue`.
 
 ### Configurar o Apache.
 
