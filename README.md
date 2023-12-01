@@ -85,7 +85,7 @@ echo $mensagem_formatada
 echo $mensagem_formatada >> $arquivo_saida
 
 - Salve o arquivo de script.
-- Execute o comando `chmod +x script.sh` para tornar o arquivo de script executável.
+- Execute o comando `chmod +x script_monitoramento.sh` para tornar o arquivo de script executável.
 - Execute o comando `./script_monitoramento.sh` para executar o script.
 
 ### Configurar a execução do script de validação a cada 5 minutos.
